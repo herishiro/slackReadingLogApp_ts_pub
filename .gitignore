@@ -1,0 +1,19 @@
+  
+# package directories
+node_modules
+jspm_packages
+
+# Serverless directories
+.serverless
+
+# Webpack directories
+.webpack
+
+# open source
+serverless.ts
+ais_sls_development.json
+ais_sls_firstDeploy.json
+sls_development.json
+sls_firstDeploy.json
+credentials.json
+token.json
